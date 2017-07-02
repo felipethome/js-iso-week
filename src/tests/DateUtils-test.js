@@ -1,7 +1,7 @@
 /* eslint-disable no-console */
 
 var fs = require('fs');
-var DateUtils = require('../DateUtils.js');
+var DateUtils = require('../DateUtils');
 
 var days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 var start = 1971;
