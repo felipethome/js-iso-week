@@ -1,0 +1,7 @@
+node_modules
+build
+dist
+*.log
+*.zip
+.DS_Store
+src/tests/out.txt

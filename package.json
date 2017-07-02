@@ -1,0 +1,19 @@
+{
+  "name": "js-iso-week",
+  "version": "1.0.0",
+  "description": "Get the ISO 8601 week number.",
+  "main": "index.js",
+  "scripts": {
+    "test": "python ./src/tests/GenWeeks.py && node ./src/tests/DateUtils-test.js"
+  },
+  "keywords": [
+    "ISO-8601",
+    "week-number"
+  ],
+  "author": "Felipe Thomé",
+  "license": "BSD-3-Clause",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.1.1"
+  }
+}
